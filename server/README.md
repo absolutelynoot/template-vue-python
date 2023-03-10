@@ -9,7 +9,8 @@ navigate to server directory `/server`
 
 ## Install dependencies
 ```sh
-pip install -r requirements.txt" in your shell
+pip install -r requirements.txt
+```
 
 ## Run python flask server
 ```sh
