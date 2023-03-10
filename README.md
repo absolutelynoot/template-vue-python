@@ -1,6 +1,15 @@
-# package
+# Vue3 Python Template
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite with Python backend server.
+
+## Tech stacks
+- Vite (Vue CLI)
+- Python Flask (backend server @ server folder)
+
+## Installed FE Library
+- Bootstrap
+- Font Awesome Icons
+- D3
 
 ## Recommended IDE Setup
 
